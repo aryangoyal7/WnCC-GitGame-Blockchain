@@ -1,0 +1,3 @@
+log 6
+Vitalik Buterin withdraws 20 eth.
+

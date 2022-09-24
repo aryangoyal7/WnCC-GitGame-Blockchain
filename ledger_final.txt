@@ -1,0 +1,6 @@
+>   Genesis block committed
+>  Tokens created, ethereum recieved
+>  Total funds = 100 eth. Deposits: 5 :: Withdrawals: 0
+>  Vitalik Buterin deposists 50 eth, Total fund = 150eth
+>  Bjarne Stroustrup deposists 2 eth , Total funds = 152eth
+>  Vitalik Buterin withdraws  50 eth, total funds = 105eth

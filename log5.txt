@@ -1,0 +1,2 @@
+log 5
+Bjarne Stroustrup deposits 5 eth.
